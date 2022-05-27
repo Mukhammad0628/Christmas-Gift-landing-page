@@ -11,4 +11,3 @@ Beautiful Christmas Responsive Landing Page 🎄. Contains a Header, Home Sectio
 ![image](https://user-images.githubusercontent.com/77983855/170778742-04afcff0-3f39-4c08-a0f0-eac8b3489f51.png)
 ![image](https://user-images.githubusercontent.com/77983855/170778782-31cec433-5014-451c-bea7-7945af33b05a.png)
 ![image](https://user-images.githubusercontent.com/77983855/170778807-ec709ec7-d77e-4106-97aa-d652070cef05.png)
-![image](https://user-images.githubusercontent.com/77983855/170778817-bc47d7f1-a85f-478e-bc13-157e960dce79.png)
